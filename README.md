@@ -5,7 +5,7 @@
 
 
 ## 친구추가
-아래 버튼을 클릭하고 AskUp을 라인 친구로 추가하세요. 그런 다음 대화를 시작하세요. (아쉽게도 카카오는 봇과 1:1 대화만 가능합니다.)
+아래 버튼을 클릭하고 AskUp을 친구로 추가하세요. 그런 다음 대화를 시작하세요. (아쉽게도 카카오는 봇과 1:1 대화만 가능합니다.)
 
 [![image](https://user-images.githubusercontent.com/901975/222918471-f3b2ea6a-59fc-4b62-9bdb-a75c340848e9.png)](http://pf.kakao.com/_BhxkWxj)
 
