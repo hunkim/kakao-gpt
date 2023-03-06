@@ -8,9 +8,6 @@
 
 [![image](https://user-images.githubusercontent.com/901975/222918471-f3b2ea6a-59fc-4b62-9bdb-a75c340848e9.png)](http://pf.kakao.com/_BhxkWxj)
 
-## 알려진 문제
-"5초 내 , 단일 발화만 응답" 이라는 카카오 봇의 제약이 있어서 chatgpt의 답이 느린 경우 답이 돌아오지 않을수 있습니다. 
-(카카오분 보시면 이거 30초 정도로 주시면 좋겠습니다.)
 
 ## 책임과 콘텐츠
 AskUp을 사용함으로써 귀하는 본 약관에 동의하는 것으로 간주 됩니다.
