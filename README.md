@@ -8,6 +8,17 @@
 
 [![image](https://user-images.githubusercontent.com/901975/222918471-f3b2ea6a-59fc-4b62-9bdb-a75c340848e9.png)](http://pf.kakao.com/_BhxkWxj)
 
+## 봇의 성격변경
+
+<img width="1610" alt="image" src="https://user-images.githubusercontent.com/901975/223034127-23767de1-80c9-40f9-800a-2bd17faa64dd.png">
+
+친절한 선생님 말투로, 어린이 말투로, 의사 선생님 말투로, 여친의 말투, 또는 특정한 언어로, 또는 번역기로 상상하는 모든 persona를 지정할수 있습니다.
+
+* persona? 챗봇의 현재 페르소나를 확인하려면 "persona?"를 입력합니다.
+* 챗봇의 새 페르소나를 설정하려면 "persona: new persona"를 입력합니다. (콜론다음 한자 띄워쓰기 주의)
+* 챗봇의 페르소나를 기본 상태로 재설정하려면 "persona reset"을 입력합니다.
+
+한번 시도해 보세요!
 
 ## 책임과 콘텐츠
 AskUp을 사용함으로써 귀하는 본 약관에 동의하는 것으로 간주 됩니다.
