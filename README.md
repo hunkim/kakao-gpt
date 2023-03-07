@@ -1,7 +1,6 @@
 # kakao-gpt
 
-<img width="341" alt="image" src="https://user-images.githubusercontent.com/901975/223312595-2e80309a-2529-48ea-b7c0-57bd455ab48a.png">
-
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/901975/223315913-f5e3349c-ff0e-4183-b5a9-69910667d711.png">
 이제 카카오에서 ChatGPT를 이용할 수 있습니다! 또한, UpOCR을 사용하여 ChatGPT에 이미지를 정보를 얻을수 있어 스샷을 통한 컨텍스트 전달도 가능합니다. 
 <img width="1568" alt="image" src="https://user-images.githubusercontent.com/901975/222918943-dae6805c-a43a-4a40-97ae-bfc61d490301.png">
 
@@ -24,10 +23,10 @@
 한번 시도해 보세요!
 
 ## 책임과 콘텐츠
-AskUp을 사용함으로써 귀하는 본 약관에 동의하는 것으로 간주 됩니다.
+AskUp을 사용함으로써 귀하는 아래 사용자 동의서에 동의하는 것으로 간주됩니다.
 
-1. 책임: 이 시스템의 신뢰성을 보장하지 않으며 사용으로 인해 발생하는 어떠한 손해에 대해서도 책임을 지지 않습니다.
-2. 콘텐츠: 사용자가 AskUp에게 말을 하면 메시지와 이미지를 Upstage와 OpenAI가 서비스 개선 목적으로 분석합니다. 콘텐츠의 소유권은 회원님이 보유하지만 Upstage 및 OpenAI에 콘텐츠 사용 라이선스를 부여합니다.
+1. 책임: AskUp의 개발자는 이 시스템의 신뢰성을 보장하지 않으며 사용으로 인해 발생하는 어떠한 손해에 대해서도 책임을 지지 않습니다.
+2. 콘텐츠: AskUp은  Upstage OCR과 OpenAI chatgpt API를 사용하므로 대화하는 내용과 이미지는 Upstage와 OpenAI로 보내지고 각각 API사용약관에 따라 이 콘텐츠는 서비스 개선을 위해 사용될 수 있습니다. 즉 사용자가 Upstage 및 OpenAI에 콘텐츠 사용 라이선스를 부여합니다.
 
 ## 무료사용
 Askup과의 대화는 한달에 100건의 대화는 무료이고 매달 자동충전 됩니다.
