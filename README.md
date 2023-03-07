@@ -38,4 +38,4 @@ https://www.facebook.com/Junbum.L 님께서 카카오봇 세팅 많이 도와주
 아이디어나 의견이 있으시면 issue에 많이 올려주세요.
 
 ## Change logs
-2023-03-7: 새로운 chatgpt 모델, gpt-3.5-turbo-0301 로 업데이트.
+* 2023-03-7: 새로운 chatgpt 모델, gpt-3.5-turbo-0301 로 업데이트.
