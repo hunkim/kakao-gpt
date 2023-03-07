@@ -1,4 +1,7 @@
 # kakao-gpt
+
+<img width="341" alt="image" src="https://user-images.githubusercontent.com/901975/223312595-2e80309a-2529-48ea-b7c0-57bd455ab48a.png">
+
 이제 카카오에서 ChatGPT를 이용할 수 있습니다! 또한, UpOCR을 사용하여 ChatGPT에 이미지를 정보를 얻을수 있어 스샷을 통한 컨텍스트 전달도 가능합니다. 
 <img width="1568" alt="image" src="https://user-images.githubusercontent.com/901975/222918943-dae6805c-a43a-4a40-97ae-bfc61d490301.png">
 
